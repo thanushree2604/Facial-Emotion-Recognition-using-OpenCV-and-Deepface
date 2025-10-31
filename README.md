@@ -45,11 +45,6 @@ A real-time facial emotion recognition system built using **OpenCV**, **TensorFl
 
 ---
 
-## 🖼️ Demo Screenshot
-![Demo Screenshot](screenshot.png)
-
----
-
 ## 🧩 How It Works
 1. Opens your system’s webcam feed.
 2. Detects faces in real time using OpenCV.
