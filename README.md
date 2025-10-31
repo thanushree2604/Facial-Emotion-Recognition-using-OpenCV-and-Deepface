@@ -67,10 +67,5 @@ A real-time facial emotion recognition system built using **OpenCV**, **TensorFl
 
 ---
 
-## 📝 License
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
 ### 💬 Feedback
 If you like this project, don’t forget to give it a ⭐ on GitHub!
