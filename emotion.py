@@ -24,7 +24,6 @@ while True:
         # Extract the face ROI (Region of Interest)
         face_roi = rgb_frame[y:y + h, x:x + w]
 
-        
         # Perform emotion analysis on the face ROI
         result = DeepFace.analyze(face_roi, actions=['emotion'], enforce_detection=False)
 
@@ -45,4 +44,3 @@ while True:
 # Release the capture and close all windows
 cap.release()
 cv2.destroyAllWindows()
-
